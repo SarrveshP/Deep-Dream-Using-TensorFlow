@@ -110,7 +110,7 @@ Reduces memory usage and supports high-res image generation by computing gradien
 Master of Computer Applications (MCA), Manipal University Jaipur
 AI | Data Science | Computer Vision
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sarveshpatil1311)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sarrvesh-patil-/)
 
 
 ---
